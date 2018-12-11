@@ -1,0 +1,14 @@
+{
+  "name": "william-sonoma",
+  "version": "1.0.0",
+  "description": "development challenge",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "raquel lowell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
