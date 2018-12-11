@@ -1,5 +1,5 @@
 SETUP
-- Unzip the Challenge folder
+- Unzip the Challenge folder or Clone the git repository
 - Install Node https://nodejs.org/en/download/
 - Install NPM https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 - Open a terminal and navigate to the challenge folder's root directory.
